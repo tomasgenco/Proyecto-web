@@ -112,3 +112,26 @@
     align-items: center;
     justify-content: center;
 }
+
+#bodyCarta{
+    background-color: #919183;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#containerCarta{
+    margin-top: 2rem;
+    display: flex;
+}
+
+#titleCarta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carta{
+    font-size: 2rem;
+}
