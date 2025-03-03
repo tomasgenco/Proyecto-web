@@ -23,7 +23,7 @@ const fotos = [{
     url: "./fotos/WhatsApp Image 2025-02-28 at 17.28.50 (2).jpeg",
     alt: "Image 3",
     caption: "Caption 3",
-    descripcion: "Cuando saliste campeona en intermedia, y estuve ahi con vos <3"
+    descripcion: "Cuando perdiste la final en primera. Burra <3"
   }, {
     url: "./fotos/WhatsApp Image 2025-02-28 at 17.28.50.jpeg",
     alt: "Image 4",
@@ -85,7 +85,7 @@ const fotos = [{
   } ,
   {
     url: "./fotos/WhatsApp Image 2025-02-28 at 17.28.55.jpeg",
-    descripcion: "Nuestra ultima escapada par el 14 de febrero. Te amo por siempre Abril."
+    descripcion: "Nuestra ultima escapada para el 14 de febrero. Te amo por siempre Abril."
   }
 ];
 
