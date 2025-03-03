@@ -15,7 +15,7 @@ const fotos = [{
     descripcion: "Tambien de las primeras veces, aca ya me empezaba a enamorar de vos."
   }
   ,{
-    url: "./fotos/WhatsApp Image 2025-02-28 at 17.28.50 (1).jpeg",
+    url: "fotos/WhatsApp Image 2025-02-28 at 17.28.50 (1).jpeg",
     alt: "Image 2",
     caption: "Caption 2",
     descripcion: "Esto fue la primera navidad que pasamos juntos, si no me acuerdo mal :)"
