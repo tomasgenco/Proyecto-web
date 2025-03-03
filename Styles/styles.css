@@ -1,0 +1,114 @@
+#bodyIndex{
+    background-color: #919183   ;
+    align-items: center;
+}
+
+#bodyFotos{
+    background-color: #919183;
+}
+
+#bodyVideo{
+    background-color: #919183;
+    align-items: center;
+}
+
+#titleVideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+/* Agarro mediante el id utilizando # */
+#mensajePrincipal{
+    font-size: 500%;
+    color: white;
+    text-align: center;
+    padding: 4%;
+
+}
+
+#divButton{
+    display: flex;
+    align-items: center;
+}
+
+#btn1{
+    background-color: #4F6D7A;
+    padding: 1rem;
+    color: white !important;
+    border-color: #4F6D7A;
+}
+
+#btn2{
+    background-color: #4F6D7A;
+    color: white !important;
+    border-color: #4F6D7A;
+    font-size: 2rem;
+    size: 20rem!important;
+    padding: 1rem;
+}
+
+
+#divBot2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+#card{
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    padding: 1rem;
+}
+
+#containerCard{
+    padding-top: 1rem;
+}
+
+#titleFotos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 7rem;
+    color: white;
+}
+
+.sigmar-regular {
+    font-family: "Sigmar", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#contenedorVideo{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    padding: 1rem;
+}
+
+#video{
+    border-radius: 25px;
+    border-width: 1rem;
+}
+
+#contador{
+    font-size: 1rem;
+    color: black;
+    width: 40%;
+    padding: 2rem;
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    margin: 2rem;
+}
+
+#contenedorPrincipal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
