@@ -8,4 +8,4 @@
         counterDisplay.textContent = counter;
     }
 
-    setInterval(updateCounter, 60000);
+    setInterval(updateCounter, 15000);
